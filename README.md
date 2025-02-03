@@ -48,6 +48,4 @@ pytest tests/
 - 적절한 이미지 크기 설정 필요
 - 한글 텍스트 렌더링 지원
 
-Citations:
-![test_print](https://github.com/user-attachments/assets/9b7a3c6a-5df3-4b68-8b83-c3baa9d3fa4d)
 ---
