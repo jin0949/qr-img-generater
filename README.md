@@ -1,6 +1,6 @@
 # QR Code Image Generator
 
-<img src="https://github.com/user-attachments/assets/9b7a3c6a-5df3-4b68-8b83-c3baa9d3fa4d" width="500"> 
+<img src="https://github.com/user-attachments/assets/9b7a3c6a-5df3-4b68-8b83-c3baa9d3fa4d" width="200"> 
 
 QR 코드와 텍스트를 결합하여 라벨 이미지를 생성하는 Python 모듈입니다. PIL(Python Imaging Library)을 사용하여 QR 코드 생성 및 이미지 처리를 수행합니다.
 
@@ -50,5 +50,4 @@ pytest tests/
 
 Citations:
 ![test_print](https://github.com/user-attachments/assets/9b7a3c6a-5df3-4b68-8b83-c3baa9d3fa4d)
-
 ---
